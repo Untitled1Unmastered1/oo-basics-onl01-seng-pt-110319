@@ -1,2 +1,3 @@
 class Shoe 
-  attr:attr_accessor :color, :size, 
+  attr_accessor :color, :size, :material
+  attr_reader :
